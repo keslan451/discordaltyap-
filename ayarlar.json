@@ -1,7 +1,7 @@
 
 {
     "token" : "BOT TOKEN",
-	"adminID" : "SİZİN İD",
+    "adminID" : "SİZİN İD",
     "prefix" : "PREFİX",
-	"passes" : 1
+    "passes" : 1
 }
