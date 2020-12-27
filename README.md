@@ -8,9 +8,9 @@ Bot Altyapı Projesine Hoşgeldin!
 
  Gerekli Modüller Yüklüdür Eğer Siz Dilerseniz Başka Modüller de Yükleyebilirsiniz
 
-[Resmi Discord Sunucumuz](https://discord.gg/YjtGp8cAS3)
+[Discord Sunucumuz](https://discord.gg/YjtGp8cAS3)
 
-[Resmi Youtube Kanalımız](https://www.youtube.com/channel/UCefQXJPxd3YxXea-W-hq5RQ)
+[Youtube Kanalımız](https://www.youtube.com/channel/UCefQXJPxd3YxXea-W-hq5RQ)
 
 
 
